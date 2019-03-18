@@ -1,0 +1,27 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "feather-icons": "^4.19.0",
+    "tailwindcss": "^0.7.4",
+    "tiptap": "1.14.0",
+    "tiptap-extensions": "1.14.0",
+    "vue": "^2.6.9",
+    "vue-axios": "^2.1.4",
+    "vue-router": "^3.0.1",
+    "vue-shortkey": "^3.1.6"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.5.0",
+    "@vue/cli-service": "^3.5.0",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "vue-template-compiler": "^2.5.2"
+  }
+}
